@@ -5,7 +5,7 @@
   <span>
   <h1 align="center">Hello! I'm Aryaman Patel,</h1>
   <h4 align="center">I'm a upcoming grad @rutgers looking for a fulltime.</h4>
-  <h4 align="center"> Here is my <a href="https://github.com/1aryamanp/1aryamanp/blob/main/Aryaman_Patel_Resume.pdf" target="_blank">resume!</a>
+  <h4 align="center"> Here is my <a href="https://github.com/1aryamanp/1aryamanp/blob/main/Aryaman-Patel-Resume.pdf" target="_blank">resume!</a>
   </span>
 </div>
 
