@@ -11,8 +11,6 @@
 
 -----
 
------
-
 <div align="center">
   <h2 align="center">You can reach me by:</h2>
   <p align="center">
