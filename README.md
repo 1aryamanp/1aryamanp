@@ -11,12 +11,6 @@
 
 -----
 
-<div align="center">
-  <a>
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
-  </a>
-</div>
-
 -----
 
 <div align="center">
@@ -24,6 +18,9 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/aryaman-patel/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30">
+    </a>
+    <a href="https://www.aryamanpatel.com/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Website%20-8A2BE2" alt="azzar" height="30">
     </a>
     <a href="mailto:1aryamanp@gmail.com" target="_blank">
       <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30">
