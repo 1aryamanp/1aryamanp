@@ -7,7 +7,7 @@ An open-source developer who codes for fun.
 - 🏫 Bachelor of Science in Computer Science, Rutgers University – New Brunswick
 - 💻 Previous Junior Software Developer Intern @ Bandhealth, Inc.
 - 🧑🏻‍💻 Learning and adapting on any oppotunity I come across!
-- 🌐 Find out more about me at my [Webssite](https://www.aryamanpatel.com/)
+- 🌐 Find out more about me at my [Website](https://www.aryamanpatel.com/)
 
 <h4>Here is my <a href="https://github.com/1aryamanp/1aryamanp/blob/main/Aryaman-Patel-Resume.pdf" class="btn btn-primary">resume!</a></h4>
 
