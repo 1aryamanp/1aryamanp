@@ -1,6 +1,6 @@
 ## Hi, I'm Aryaman Patel
 
-An open-source developer who codes for fun.
+Aspiring Developer
 
 - 😎 Open to full-time opportunities
 - ✈️ SWE/SDE, open to relocate
