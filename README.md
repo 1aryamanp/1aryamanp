@@ -5,7 +5,7 @@ Aspiring Developer
 - 😎 Open to full-time opportunities
 - ✈️ SWE/SDE, open to relocate
 - 🏫 Bachelor of Science in Computer Science, Rutgers University – New Brunswick
-- 💻 Previous Junior Software Developer Intern @ Bandhealth, Inc.
+- 💻 Junior Software Developer @ Bandhealth, Inc.
 - 🧑🏻‍💻 Learning and adapting on any oppotunity I come across!
 - 🌐 Find out more about me at my [Website](https://www.aryamanpatel.com/)
 
